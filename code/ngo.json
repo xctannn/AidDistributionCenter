@@ -1,0 +1,28 @@
+[ {
+  "name" : "Ngo1",
+  "password" : "abc",
+  "manpower" : 10,
+  "aidsList" : [ ]
+}, {
+  "name" : "Ngo2",
+  "password" : "abc",
+  "manpower" : 20,
+  "aidsList" : [ {
+    "name" : "rice",
+    "quantity" : 5,
+    "donor" : "",
+    "ngo" : "Ngo2",
+    "status" : "Available"
+  } ]
+}, {
+  "name" : "Ngo3",
+  "password" : "abc",
+  "manpower" : 5,
+  "aidsList" : [ {
+    "name" : "tissue",
+    "quantity" : 5,
+    "donor" : "",
+    "ngo" : "Ngo6",
+    "status" : "Available"
+  } ]
+} ]

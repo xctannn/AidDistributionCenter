@@ -1,0 +1,22 @@
+[ {
+  "name" : "Donor1",
+  "password" : "abc",
+  "phoneNumber" : "0123623642",
+  "aidsList" : [ ]
+}, {
+  "name" : "Donor2",
+  "password" : "abc",
+  "phoneNumber" : "0136625100",
+  "aidsList" : [ {
+    "name" : "blankets",
+    "quantity" : 5,
+    "donor" : "Donor2",
+    "ngo" : "",
+    "status" : "Available"
+  } ]
+}, {
+  "name" : "Donor3",
+  "password" : "abc",
+  "phoneNumber" : "0132513621",
+  "aidsList" : [ ]
+}]
